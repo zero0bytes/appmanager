@@ -7,6 +7,8 @@ testing under raspbian stretch.
 example output from terminal:  ./appmanager   
 
 Welcome to appmanager v 1.0
+
+
 Setup...
 Initialize timer...
 
