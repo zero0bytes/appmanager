@@ -12,5 +12,6 @@ Initialize timer...
 
 
 Usage:   appmanager app-name app-path app-param1 app-param2
+
 Example: appmanager nginx /usr/sbin/nginx -v -something
 
